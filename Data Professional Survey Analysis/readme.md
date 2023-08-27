@@ -1,5 +1,6 @@
-# Data Professional Survey Breakdown 
-Introduction: To analyse the survey data of various Data professionals and to see the vaious aspects of the field like - happiness, salary, difficulty in getting the job, etc.
+# **Data Professional Survey Breakdown** 
+## Introduction: 
+This project aims to analyse the survey data of various Data professionals and to see the vaious aspects of the field like - happiness, salary, difficulty in getting the job, etc.
 
 ## About the dataset :
 The dataset contains the names of various countries of survey takers, their current roles, average salary of the job, favorite programming language, happiness rating with their job, happiness with their salary, difficulty into getting a data job, age of the survey takers, etc.
